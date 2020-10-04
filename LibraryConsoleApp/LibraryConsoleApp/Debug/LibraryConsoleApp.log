@@ -1,0 +1,13 @@
+﻿  LibraryConsoleApp.cpp
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(337,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(509,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(551,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(600,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(653,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(701,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(767,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(829,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(97): warning C4715: 'showBasicMenu': not all control paths return a value
+C:\Users\XeroXen\source\repos\LibraryConsoleApp\LibraryConsoleApp\LibraryConsoleApp.cpp(1088): warning C4715: 'createNewMaterial': not all control paths return a value
+  LibraryConsoleApp.vcxproj -> C:\Users\XeroXen\source\repos\LibraryConsoleApp\Debug\LibraryConsoleApp.exe

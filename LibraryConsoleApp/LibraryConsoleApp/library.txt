@@ -1,0 +1,67 @@
+class Book
+Why we love computer science
+Kristopher Roberts
+Library
+10
+666
+666THISISBN666
+1
+class CD
+Persona 6
+Library
+Shoji Meguro
+10
+5:00:05
+2
+Life Won't Change
+First Surprise
+1
+class EBook
+How to cook
+Pikachu Mister
+Library
+10
+P0K3M0N12345
+100
+Epub
+class Game
+Paper Mario: But Good Again
+Library
+Nintendo
+10
+30:05:25
+Nintendo Switch
+0
+22:01:1
+Xeroxen
+class Magazine
+Video Games on the Daily
+Ivy Tech
+Library
+10
+50
+1
+1
+class Movie
+Jurassic Park
+Library
+Fox
+10
+2:010:35
+VHS
+1
+class ReferenceMaterial
+Science in our times
+Steve Jobs
+Library
+10
+12345ISBNMagic
+350
+class Book
+Test
+Book
+Library
+10
+0
+
+1
